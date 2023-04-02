@@ -1,0 +1,14 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 9000
+  adminConnectors:
+    - type: http
+      port: 9001
+
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: root
+  password: ""
+  url: jdbc:mysql://localhost:3306/interview-api
+  validationQuery: "/* MyService Health Check */ SELECT 1"

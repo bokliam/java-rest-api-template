@@ -1,0 +1,8 @@
+/Users/Liam/interview-api/src/main/java/com/example/interview/dao/mapper/UserMapper.java
+/Users/Liam/interview-api/src/main/java/com/example/interview/resource/UserResource.java
+/Users/Liam/interview-api/src/main/java/com/example/interview/InterviewAPIApplication.java
+/Users/Liam/interview-api/src/main/java/com/example/interview/resource/GreetingResource.java
+/Users/Liam/interview-api/src/main/java/com/example/interview/dao/UserDAO.java
+/Users/Liam/interview-api/src/main/java/com/example/interview/health/DatabaseHealthCheck.java
+/Users/Liam/interview-api/src/main/java/com/example/interview/domain/User.java
+/Users/Liam/interview-api/src/main/java/com/example/interview/InterviewAPIConfiguration.java
